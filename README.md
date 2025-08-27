@@ -7,11 +7,11 @@ This is sales analytics dashboard project using excel.
 3. Sales revenue per customer segment
 4. Sales per lead Source
 5. Revenue per product category
-6. Revenue per sales channel and qurters
+6. Revenue per sales channel and quarters
 
 Using KPIs
 1. Total Revenue
-2. Totals quantity solds
+2. Totals quantity sold
 3. Sales target
 4. Top product
 5. Profit margin
